@@ -7,3 +7,11 @@ Java possui diversos tipos de dados para representar diferentes tipos de valores
 - boolean: usado para armazenar valores booleanos (true ou false).
 - char: usado para armazenar caracteres individuais.
 - String: usado para armazenar sequências de caracteres.🚀
+
+
+## Operadores
+
+O java funciona com uma calculadora superpotente, alem do basico (Somar e Subtrair) existem operadores que são essenciais para a logica de programação
+
+"+", "-", "*", "/", "%" 
+
