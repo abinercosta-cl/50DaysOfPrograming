@@ -13,5 +13,5 @@ Java possui diversos tipos de dados para representar diferentes tipos de valores
 
 O java funciona com uma calculadora superpotente, alem do basico (Somar e Subtrair) existem operadores que são essenciais para a logica de programação
 
-"+", "-", "*", "/", "%" 
+"+", "-", "*", "/", "%";
 
